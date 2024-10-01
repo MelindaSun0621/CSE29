@@ -1,4 +1,2 @@
 # CSE29
-int main(){
-
-}
+first CSE29 lab
