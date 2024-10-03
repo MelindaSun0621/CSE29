@@ -1,2 +1,3 @@
 # CSE29
-first CSE29 lab
+First CSE29 lab - 10/01
+Simple
